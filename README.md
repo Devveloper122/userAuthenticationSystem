@@ -28,7 +28,7 @@ npm install
 npm run server.js
 
 <!-- start frontend -->
-cd frontend
-npm install
-npm run dev
+cd frontend  
+npm install     
+npm run dev    
 Follow the link to open project on Browser.
