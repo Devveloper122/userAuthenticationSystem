@@ -15,6 +15,7 @@ Authentication: JWT, bcrypt, validator.
 DataBase: MongoDB and mongoose + cloudinary (if in further version want to upload user image)
 
 # Installation and Setup:
+```sh
 
 Clone the repository.
 
