@@ -3,7 +3,7 @@ import bcrypt from "bcrypt";
 import validator from "validator";
 import userModel from "../models/userModel.js";
 
-// API to register user
+// 1). API to register user
 const registerUser = async (req, res) => {
 
     try {
