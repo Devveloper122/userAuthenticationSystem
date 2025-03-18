@@ -46,7 +46,7 @@ const registerUser = async (req, res) => {
     }
 }
 
-// 2). API to login user
+// 2). API to Login user
 const loginUser = async (req, res) => {
 
     try {
